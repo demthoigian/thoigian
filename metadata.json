@@ -1,0 +1,6 @@
+{
+  "name": "Đồng Hồ Đếm Ngược Ổn Định Chỗ Ngồi",
+  "description": "Ứng dụng đếm ngược thời gian ổn định chỗ ngồi dành cho lớp học, hội trường và sự kiện với màn hình số cực đại và cảnh báo hết giờ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
